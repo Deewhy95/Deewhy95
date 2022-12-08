@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Adedayo
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning Software Engineering ...
-- 💞️ I’m looking to collaborate on Python, R Programming language, SQL and Qlik...
-- 📫 How to reach me 08122300268/eosifuye@gmail.com...
+#####
+Hi there👋, I'm Adedayo😄
+#####
+A Software Engineer in the making 💬 Full-Stack Web Developer 💻, and Designer 🎨!
+I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
 
-connect with me on
-<---
-Deewhy95/Deewhy95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Connect with me:
 
+@OsifuyeE https://www.linkedin.com/in/Deewhy95/
+
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+🌱 I'm currently learning
+📱 C programming
+Java, HTML, REACT JS, PYTHON
+
+wanna hear a joke?😅
+Jokes Card
