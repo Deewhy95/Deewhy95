@@ -8,7 +8,7 @@ Hi there👋, I'm Adedayo😄
 </h3>
 
 <h2 align="center">
-A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Designer 🎨!
+A Data Analyst in the making 💬 R Programmer 💻,  and Writer 🎨!
 </h2>
 
 I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
@@ -31,7 +31,7 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 - 📱 C programming
 - R programming
-- Java, HTML, REACT JS, PYTHON
+- PYTHON
 
 <!--- Computer jokes --->
 ### wanna hear a joke?😅
