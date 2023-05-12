@@ -4,7 +4,7 @@
 <P/>
 
 <h3 align="center">
-Hi there👋, I'm Adedayo😄
+Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
 
 <h2 align="center">
