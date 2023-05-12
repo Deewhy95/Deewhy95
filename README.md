@@ -6,8 +6,7 @@
 <h3 align="center">
 Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
-'''
-'''
+
 <h2 align="center">
 A Finance & Data Analyst in the making 💬 R Programmer 💻,  and Writer 🎨!
 </h2>
@@ -20,6 +19,8 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 <a href="https://twitter.com/OsifuyeE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OsifuyeE" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adedayo-osifuye/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adedayo-osifuye/" height="30" width="40" /></a>
+
+</p>
 
 </p>
 
