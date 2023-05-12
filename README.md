@@ -6,9 +6,10 @@
 <h3 align="center">
 Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
-
+'''
+'''
 <h2 align="center">
-A Data Analyst in the making 💬 R Programmer 💻,  and Writer 🎨!
+A Finance & Data Analyst in the making 💬 R Programmer 💻,  and Writer 🎨!
 </h2>
 
 I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
@@ -39,7 +40,7 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=E34F26)
+(https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=E34F26)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C,C++,C#&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=RSTUDIO&color=E34F26)
 ![](https://img.shields.io/badge/Code-SPSS-informational?style=flat&logo=SPSS&color=E34F26)
