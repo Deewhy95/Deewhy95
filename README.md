@@ -8,10 +8,10 @@ Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
 
 <h2 align="center">
-A Finance & Data Analyst in the making 💬 R Programmer 💻,  and Writer 🎨!
+A Finance & Data Analyst
 </h2>
 
-I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
+I love the challenge of finding solutions to problems and spending time meeting new people. Learning and trying new things and most importantly, having a hand in developing the INNOVATIONS of tomorrow!!
 
 ### 🤝 Connect with me:
 
@@ -26,12 +26,13 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 
 ## 🌱 I'm currently learning
 
-- 📱 C programming
+- Tableau
+- SQL
 - R programming
 - PYTHON
 
@@ -41,22 +42,22 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 ## 💼 Technical Skills
 
-(https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=E34F26)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C,C++,C#&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=E34F26)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=RSTUDIO&color=E34F26)
-![](https://img.shields.io/badge/Code-SPSS-informational?style=flat&logo=SPSS&color=E34F26)
+![](https://img.shields.io/badge/Code-tableau-informational?style=flat&logo=tableau&color=E34F26)
 
 </br>
 
-![](https://img.shields.io/badge/Style-Ubuntu-informational?style=flat&logo=Ubuntu&color=7952B3)
-![](https://img.shields.io/badge/Style-Linux-informational?style=flat&logo=Linux&color=1572B6)
+#(https://img.shields.io/badge/Style--informational?style=flat&logo=Ubuntu&color=7952B3)
+#(https://img.shields.io/badge/Style-Linux-informational?style=flat&logo=Linux&color=1572B6)
 
 </br>
 
-![](https://img.shields.io/badge/Tools-RSTUDIO-informational?style=flat&logo=RSTUDIO&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-SPSS-informational?style=flat&logo=SPSS&color=181717)
+![](https://img.shields.io/badge/Tools-VScode-informational?style=flat&logo=Visualstudiocode&color=181717)
 
 <br>
 
