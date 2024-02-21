@@ -10,26 +10,36 @@ Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 <h2 align="center">
 A Data Analyst
 </h2>
-
+<p align="center">
 I love the challenge of finding solutions to problems and spending time meeting new people. Learning and trying new things and most importantly, having a hand in developing the INNOVATIONS of tomorrow!!
 
-### 🤝 Connect with me:
+<h2 align="center">
+## 🤝 Connect with me:
 
 <p align="center">
-
 <a href="https://twitter.com/alabarinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alabarinn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adedayo-osifuye/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adedayo-osifuye/" height="30" width="40" /></a>
 
-</p>
 
-</p>
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&color=F7DF1E)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=F7DF1E)
+![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=PowerBI&color=E34F26)
+![](https://img.shields.io/badge/Code-tableau-informational?style=flat&logo=tableau&color=E34F26)
 
 </br>
 
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+## 🥇 Certification
+
+![data-analytics-essentials (1)](https://github.com/Deewhy95/Deewhy95/assets/110995408/2522c836-1f92-4ba5-b8fb-9bc48627551e) 
+<P/>
+🔗https://www.credly.com/badges/e8d05c5f-93d3-48e5-859d-ac9ca985a759/public_url
 
 
---## 🌱 I'm currently learning
+<p/>
+
+## 🌱 I'm currently learning
 
 - Python
 - R programming
@@ -37,24 +47,6 @@ I love the challenge of finding solutions to problems and spending time meeting 
 <!--- Computer jokes --->
 ### wanna hear a joke?😅
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=F7DF1E)
-![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=PowerBI&color=E34F26)
-![](https://img.shields.io/badge/Code-tableau-informational?style=flat&logo=tableau&color=E34F26)
-
-</br>
-
-#(https://img.shields.io/badge/Style--informational?style=flat&logo=Ubuntu&color=7952B3)
-#(https://img.shields.io/badge/Style-Linux-informational?style=flat&logo=Linux&color=1572B6)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&color=F24E1E)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-VScode-informational?style=flat&logo=Visualstudiocode&color=181717)
 
 <br>
 
@@ -64,4 +56,3 @@ I love the challenge of finding solutions to problems and spending time meeting 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deewhy95&layout=compact)](https://github.com/Deewhy95)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Deewhy95.Deewhy95)](https://www.yushi.dev/)
