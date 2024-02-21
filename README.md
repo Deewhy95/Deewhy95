@@ -8,7 +8,7 @@ Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
 
 <h2 align="center">
-A Finance & Data Analyst
+A Data Analyst
 </h2>
 
 I love the challenge of finding solutions to problems and spending time meeting new people. Learning and trying new things and most importantly, having a hand in developing the INNOVATIONS of tomorrow!!
@@ -29,12 +29,10 @@ I love the challenge of finding solutions to problems and spending time meeting 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 
-## 🌱 I'm currently learning
+--## 🌱 I'm currently learning
 
-- Tableau
-- SQL
+- Python
 - R programming
-- PYTHON
 
 <!--- Computer jokes --->
 ### wanna hear a joke?😅
@@ -42,9 +40,8 @@ I love the challenge of finding solutions to problems and spending time meeting 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=F7DF1E)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=RSTUDIO&color=E34F26)
+![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=PowerBI&color=E34F26)
 ![](https://img.shields.io/badge/Code-tableau-informational?style=flat&logo=tableau&color=E34F26)
 
 </br>
