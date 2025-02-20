@@ -8,7 +8,7 @@ Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
 
 <h2 align="center">
-A Data Analyst
+A Data Entry Specialist
 </h2>
 <p align="center">
 I love the challenge of finding solutions to problems and spending time meeting new people. Learning and trying new things and most importantly, having a hand in developing the INNOVATIONS of tomorrow!!
