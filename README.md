@@ -8,7 +8,7 @@ Hi there👋, I'm Adedayo Emmanuel Osifuye😄
 </h3>
 
 <h2 align="center">
-A Data Entry Specialist
+A Data Analyst
 </h2>
 <p align="center">
 I love the challenge of finding solutions to problems and spending time meeting new people. Learning and trying new things and most importantly, having a hand in developing the INNOVATIONS of tomorrow!!
@@ -28,21 +28,13 @@ I love the challenge of finding solutions to problems and spending time meeting 
 ![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=PowerBI&color=E34F26)
 ![](https://img.shields.io/badge/Code-tableau-informational?style=flat&logo=tableau&color=E34F26)
 
-</br>
-
-## 🥇 Certification
-
-![data-analytics-essentials (1)](https://github.com/Deewhy95/Deewhy95/assets/110995408/2522c836-1f92-4ba5-b8fb-9bc48627551e) 
-<P/>
-🔗https://www.credly.com/badges/e8d05c5f-93d3-48e5-859d-ac9ca985a759/public_url
-
 
 <p/>
 
 ## 🌱 I'm currently learning
 
 - Python
-- R programming
+- Machine Learning
 
 <!--- Computer jokes --->
 ### wanna hear a joke?😅
