@@ -4,7 +4,7 @@
 <P/>
 
 <h3 align="center">
-Hi there👋, I'm Adedayo Emmanuel Osifuye😄
+Hi there👋, I'm Adedayo Osifuye😄
 </h3>
 
 <h2 align="center">
@@ -41,10 +41,4 @@ I love the challenge of finding solutions to problems and spending time meeting 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Deewhy95)](https://github.com/Deewhy95)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deewhy95&layout=compact)](https://github.com/Deewhy95)
 
